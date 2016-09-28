@@ -4,8 +4,8 @@ class ReplaceChar
 {
     public static void main(String[] args)
     {
-        String originalString = "This car is my car";
-        String replacedString = replaceMethod(originalString, "c", "b");
+        String originalString = "My Name is Bijai";
+        String replacedString = replaceMethod(originalString, "Bijai", "Bijai");
         System.out.println(replacedString);
     }
 
