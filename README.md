@@ -1,2 +1,2 @@
-# javatweaks
-My Programs [ Completly written by me]
+# Java Tweaks
+Basic Java Tweaks.
